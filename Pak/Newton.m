@@ -1,4 +1,3 @@
-%Assignment 6  Jason Huang 400245yh
 %This function takes the following inputs: f, a single-argument function;
 %x0, the starting point of Newton method; delta, the threshold of accepting
 %a result of Newton method; maxiter, the maximum number of iterations
